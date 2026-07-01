@@ -1,107 +1,86 @@
-## Hi there 👋
-
 <div align="center">
 
-# SURYA GOPINATH
+<!-- HERO -->
+<img width="100%" alt="Surya Gopinath banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0f19,50:111827,100:ef4444&text=SURYA%20GOPINATH&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&desc=Software%20%7C%20Cloud%20%7C%20AI%20%7C%20Hardware&descAlign=50&descAlignY=62" />
 
-### Software Engineer • Computer Engineer • Startup Builder
+<h3>Building software, hardware, and ideas that solve real problems.</h3>
 
-Building full-stack software, cloud systems, hardware projects, and creative products.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-suryagopinath.com-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suryagopinath.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya_Gopinath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-gopinath)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Suryagopinath01@gmail.com)
+<p>
+  <a href="https://suryagopinath.com"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F19?style=for-the-badge&logo=google-chrome&logoColor=38bdf8" /></a>
+  <a href="https://www.linkedin.com/in/surya-gopinath"><img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+  <a href="mailto:Suryagopinath01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=ef4444" /></a>
+</p>
 
 </div>
 
 ---
 
-## Currently Building
+## Currently
 
-- **GeoZane** — AI land feasibility platform launched after winning HackPrinceton Spring 2026.
-- **Pixel Music Player** — Electron + React desktop music player with Spotify, Apple Music, and YouTube integrations.
-- **Raspberry Pi Photobooth** — Raspberry Pi 5 photobooth with touchscreen UI, camera capture, GPIO trigger, and thermal printer output.
-- **suryagopinath.com** — my personal portfolio for software, hardware, poetry, and creative work.
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>GeoZane</h3>
-      <p>AI geospatial investment platform that reduces land feasibility analysis from weeks to under 60 seconds.</p>
-      <p><b>Stack:</b> React, TypeScript, Supabase, Gemini, USGS API</p>
-      <a href="https://suryagopinath.com">Project Log →</a>
-    </td>
-    <td width="33%">
-      <h3>Pixel Music Player</h3>
-      <p>Pixel-art desktop music player with Spotify, Apple Music, YouTube, local playback, OAuth, and animated UI.</p>
-      <p><b>Stack:</b> Electron, React, JavaScript, OAuth</p>
-      <a href="https://github.com/surya0901/surya-player">GitHub →</a>
-    </td>
-    <td width="33%">
-      <h3>Raspberry Pi Photobooth</h3>
-      <p>Hardware/software photobooth with live preview, touchscreen UI, camera capture, and thermal printer output.</p>
-      <p><b>Stack:</b> Python, Raspberry Pi 5, Picamera2, GPIO</p>
-      <a href="https://suryagopinath.com">Project Log →</a>
-    </td>
-  </tr>
-</table>
+- **Co-Founder & Software Engineer · GeoZane** — building AI land-feasibility software after winning **HackPrinceton Spring 2026**.
+- **M.S. Computer Engineering · Rutgers University** — focused on software engineering, cloud systems, and backend development.
+- **Building** — Terra-Zone AI, Pixel Music Player, Raspberry Pi Photobooth, and my personal portfolio.
 
 ---
 
-## Tech Stack
+## Selected Work
 
-**Languages**  
-Python • Go • JavaScript • TypeScript • SQL
+**[Terra-Zone AI](https://suryagopinath.com)** — HackPrinceton Spring 2026 winning geospatial investment platform. Built with **React, TypeScript, Supabase, Google Gemini 2.0, and USGS APIs** to reduce land analysis from weeks to under 60 seconds.
 
-**Frontend**  
-React • Vite • HTML • CSS
+**[Pixel Music Player](https://github.com/surya0901/surya-player)** — Cross-platform desktop music player using **Electron, React, JavaScript, Spotify API, Apple MusicKit, YouTube API, and OAuth** with animated vinyl UI and local audio playback.
 
-**Backend / APIs**  
-Node.js • Go APIs • REST APIs • OAuth • JSON
+**[Raspberry Pi Photobooth](https://suryagopinath.com)** — Hardware/software build using **Python, Raspberry Pi 5, Picamera2, GPIO, touchscreen UI, and thermal printer output** for instant photo printing.
 
-**Cloud / Data**  
-AWS • Google Cloud Platform • Cloud Run • Cloud SQL • ETL Pipelines
-
-**Tools**  
-Git • GitHub • Docker • Linux • Postman • npm
+**[Developer Portfolio](https://suryagopinath.com)** — Dark, interactive portfolio showcasing software, hardware, poetry, art, and project logs.
 
 ---
 
-## Engineering Focus
+## Engineering Stack
 
-```txt
-Full-Stack Engineering       ████████████░░░
-Cloud + Backend Systems      ███████████░░░░
-AI Product Development       ██████████░░░░░
-Hardware + Embedded Builds   █████████░░░░░░
-Creative Engineering         ████████████░░░
-```
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=ef4444" />
+</p>
 
 ---
 
-## Experience Snapshot
+## Recognition
 
-- **Co-Founder & Software Engineer @ GeoZane** — building AI geospatial workflows, APIs, and MVP features for pilot testing.
-- **Software Engineer Intern @ Universal Selfcare** — built React, Go, GCP, and Cloud SQL features for healthcare workflows.
-- **Technology Operations Assistant @ Rutgers University** — resolved 100+ weekly IT issues across Windows, software, and network systems.
+- **HackPrinceton Spring 2026 Winner** — Terra-Zone AI.
+- **Co-Founder @ GeoZane** — AI startup for geospatial land feasibility and investment decisions.
+- **President @ SOARS Rutgers** — led 100+ member STEM organization and coordinated academic initiatives.
 
 ---
 
-## Outside Engineering
+## GitHub Activity
 
-I also enjoy writing poetry, cooking, planning spontaneous trips, gaming, making content, and building creative projects that feel personal.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=surya0901&show_icons=true&theme=dark&hide_border=true&title_color=ef4444&icon_color=38bdf8&text_color=e5e7eb&bg_color=0b0f19" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya0901&layout=compact&theme=dark&hide_border=true&title_color=ef4444&text_color=e5e7eb&bg_color=0b0f19" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Always trust the process.
+### NJ ⇄ NYC · always building
 
-[Portfolio](https://suryagopinath.com) • [LinkedIn](https://www.linkedin.com/in/surya-gopinath) • [Email](mailto:Suryagopinath01@gmail.com)
+<p>
+  <a href="https://suryagopinath.com"><img src="https://img.shields.io/badge/PORTFOLIO-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surya-gopinath"><img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+  <a href="mailto:Suryagopinath01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=ef4444" /></a>
+</p>
 
 </div>
-
