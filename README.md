@@ -19,8 +19,6 @@
 
 - **Co-Founder & Software Engineer · GeoZane** — building AI land-feasibility software after winning **HackPrinceton Spring 2026**.
 - **M.S. Computer Engineering · Rutgers University** — focused on software engineering, cloud systems, and backend development.
-- **Building** — Terra-Zone AI, Pixel Music Player, Raspberry Pi Photobooth, and my personal portfolio.
-
 ---
 
 ## Selected Work
