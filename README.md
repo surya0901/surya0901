@@ -62,25 +62,27 @@
 
 ---
 
-## GitHub Activity
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=surya0901&show_icons=true&theme=dark&hide_border=true&title_color=ef4444&icon_color=38bdf8&text_color=e5e7eb&bg_color=0b0f19" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya0901&layout=compact&theme=dark&hide_border=true&title_color=ef4444&text_color=e5e7eb&bg_color=0b0f19" />
 
-</div>
-
----
 
 <div align="center">
 
 ### NJ ⇄ NYC · always building
 
-<p>
-  <a href="https://suryagopinath.com"><img src="https://img.shields.io/badge/PORTFOLIO-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/surya-gopinath"><img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
-  <a href="mailto:Suryagopinath01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=ef4444" /></a>
+<p align="center">
+  <a href="https://suryagopinath.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ff4d4d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/surya-gopinath/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@suryagopinath01">
+    <img src="https://img.shields.io/badge/MEDIUM-111111?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:Suryagopinath01@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
 </p>
 
 </div>
