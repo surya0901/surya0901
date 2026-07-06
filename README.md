@@ -23,11 +23,11 @@
 
 ## Selected Work
 
-**[Terra-Zone AI](https://suryagopinath.com)** — HackPrinceton Spring 2026 winning geospatial investment platform. Built with **React, TypeScript, Supabase, Google Gemini 2.0, and USGS APIs** to reduce land analysis from weeks to under 60 seconds.
+**[Terra-Zone AI]([https://suryagopinath.com](https://devpost.com/software/terra-zone?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team))** — HackPrinceton Spring 2026 winning geospatial investment platform. Built with **React, TypeScript, Supabase, Google Gemini 2.0, and USGS APIs** to reduce land analysis from weeks to under 60 seconds.
 
 **[Pixel Music Player](https://github.com/surya0901/surya-player)** — Cross-platform desktop music player using **Electron, React, JavaScript, Spotify API, Apple MusicKit, YouTube API, and OAuth** with animated vinyl UI and local audio playback.
 
-**[Raspberry Pi Photobooth](https://suryagopinath.com)** — Hardware/software build using **Python, Raspberry Pi 5, Picamera2, GPIO, touchscreen UI, and thermal printer output** for instant photo printing.
+**[Raspberry Pi Photobooth]([https://suryagopinath.com](https://www.suryagopinath.com/project-log/photobooth))** — Hardware/software build using **Python, Raspberry Pi 5, Picamera2, GPIO, touchscreen UI, and thermal printer output** for instant photo printing.
 
 **[Developer Portfolio](https://suryagopinath.com)** — Dark, interactive portfolio showcasing software, hardware, poetry, art, and project logs.
 
