@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated strengths; values can be tuned at any time.",
+  "axes": [
+    { "label": "Python",      "value": 88 },
+    { "label": "Cloud / AWS", "value": 82 },
+    { "label": "SQL / Data",   "value": 84 },
+    { "label": "React / TS",   "value": 78 },
+    { "label": "Backend",      "value": 80 },
+    { "label": "AI / ML",      "value": 76 },
+    { "label": "Hardware",     "value": 74 }
+  ]
+}
