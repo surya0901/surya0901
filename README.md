@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="300" alt="Surya Gopinath rendered as a dot matrix">
+<!-- PORTRAIT -->
+<img src="assets/portrait.svg" width="300" alt="Surya Gopinath, rendered as a dot matrix">
 
 <br>
 
+<!-- NAME / TAGLINE -->
 <a href="https://github.com/surya0901">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Surya+Gopinath;Software +Engineering+%7C+Machine+Learning;Competitive+Programmer;01100010+01110101+01101001+01101100+01100100" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Surya+Gopinath;Software+Engineering+%7C+Machine+Learning;Competitive+Programmer;01100010+01110101+01101001+01101100+01100100" alt="typing banner">
 </a>
 
 <br>
 
+<!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/surya-gopinath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:Suryagopinath01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://suryagopinath.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -27,111 +30,3 @@
 
 ```console
 $ cat about.txt
-```
-
-Hi, I'm **Surya Gopinath**. I build across software, cloud, AI, and hardware—usually where a useful idea needs both engineering depth and a practical path into the real world.
-
-- Co-Founder & Software Engineer at **GeoZane**, building AI-powered land-feasibility tools
-- M.S. Computer Engineering student at **Rutgers University**, focused on software engineering and cloud systems
-- Winner at **HackPrinceton Spring 2026** with **[Terra-Zone AI](https://devpost.com/software/terra-zone)**
-- Currently building **[Surya Player](https://github.com/surya0901/surya-player)** and hardware projects with Raspberry Pi
-- Fun fact: I started in biomedical engineering and now use that systems mindset to build technology across disciplines
-
-<br>
-
-<div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,go,postgres,mysql,aws,gcp,docker,linux,git,github,vscode,raspberrypi&perline=9" alt="Technology stack">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` skill radar
-
-<table><tr>
-<td width="50%" align="center" valign="middle">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg"><img src="assets/radar-dark.svg" width="400" alt="Self-rated engineering skill radar"></picture>
-</td>
-<td width="50%" align="center" valign="middle">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg"><img src="assets/radar-langs-dark.svg" width="400" alt="Live repository language radar"></picture>
-</td>
-</tr></table>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` contribution calendar
-
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D GitHub contribution calendar">
-
-<br><br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya0901/surya0901/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surya0901/surya0901/output/snake.svg"><img src="https://raw.githubusercontent.com/surya0901/surya0901/output/snake.svg" width="100%" alt="Snake contribution graph"></picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg"><img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics"></picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="Most-used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` selected work
-
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/surya0901/surya-player"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-surya-player-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-surya-player-light.svg"><img src="assets/card-surya-player-dark.svg" width="420" alt="Surya Player"></picture></a></td>
-<td width="50%"><a href="https://github.com/surya0901/RaspberryPi-Photobooth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-RaspberryPi-Photobooth-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-RaspberryPi-Photobooth-light.svg"><img src="assets/card-RaspberryPi-Photobooth-dark.svg" width="420" alt="Raspberry Pi Photobooth"></picture></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/surya0901/ai-fall-detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-fall-detection-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ai-fall-detection-light.svg"><img src="assets/card-ai-fall-detection-dark.svg" width="420" alt="AI Fall Detection"></picture></a></td>
-<td width="50%"><a href="https://github.com/surya0901/StudentPerformancePredictor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-StudentPerformancePredictor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-StudentPerformancePredictor-light.svg"><img src="assets/card-StudentPerformancePredictor-dark.svg" width="420" alt="Student Performance Predictor"></picture></a></td>
-</tr>
-</table>
-
-<sub>
-
-| project | link | stack |
-|---|---|---|
-| **Terra-Zone AI** | **[Devpost](https://devpost.com/software/terra-zone)** | `React` `TypeScript` `Supabase` `Gemini` `USGS` |
-| **Surya Player** | **[GitHub](https://github.com/surya0901/surya-player)** | `Electron` `React` `JavaScript` `OAuth` |
-| **Raspberry Pi Photobooth** | **[GitHub](https://github.com/surya0901/RaspberryPi-Photobooth)** | `Python` `Raspberry Pi` `Picamera2` `GPIO` |
-| **Developer Portfolio** | **[Live](https://suryagopinath.com)** | `Web` `Interactive Design` `Project Logs` |
-
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### NJ ⇄ NYC · always building
-
-<sub>`01100010 01110101 01101001 01101100 01100100 00100000 01110011 01101111 01101101 01100101 01110100 01101000 01101001 01101110 01100111 00100000 01110101 01110011 01100101 01100110 01110101 01101100`</sub>
-
-</div>
