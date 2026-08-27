@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="320" alt="Surya Gopinath rendered as a dot-matrix portrait">
+<img src="assets/portrait.svg" width="300" alt="Surya Gopinath rendered as a dot matrix">
 
 <br>
 
 <a href="https://github.com/surya0901">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=650&lines=Surya+Gopinath;Software+%7C+Cloud+%7C+AI+%7C+Hardware;Co-Founder+%40+GeoZane;Building+ideas+that+solve+real+problems" alt="Animated introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Surya+Gopinath;Software+%7C+Cloud+%7C+AI+%7C+Hardware;Co-Founder+%40+GeoZane;01100010+01110101+01101001+01101100+01100100" alt="typing banner">
 </a>
 
 <br>
@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=surya0901&style=flat&color=f97316&label=profile+views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=surya0901&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
