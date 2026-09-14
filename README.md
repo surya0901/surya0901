@@ -38,10 +38,68 @@ usually where an ambitious idea needs both engineering depth and a practical pat
 - Co-Founder & Software Engineer at **GeoZane**, building AI-powered land-feasibility tools
 - M.S. Computer Engineering student at **Rutgers University**
 - Winner at **[HackPrinceton Spring 2026](https://devpost.com/software/terra-zone)** with Terra-Zone AI
-- Currently building **[Surya Player](https://github.com/surya0901/surya-player)** and Raspberry Pi hardware projects
+- Recent work: **[SignalRank](https://surya0901.github.io/SignalRank/)**, **[Surya Player](https://github.com/surya0901/surya-player)**, and Raspberry Pi hardware projects
 - Fun fact: **I started in biomedical engineering and now build technology across disciplines.**
 
 <br>
+
+## `~/` selected work
+
+A selection of web, desktop, machine-learning, and hardware projects. Open the demos, explore the code, or read the engineering notes.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/surya0901/SignalRank">SignalRank</a></h3>
+<p><strong>Personalized movie discovery</strong></p>
+<p>Explainable recommendations from MovieLens ratings using item similarity and genre preferences. Includes a FastAPI/PostgreSQL application, Docker setup, tests, and a reproducible offline evaluation.</p>
+<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>scikit-learn</code></p>
+<p><a href="https://surya0901.github.io/SignalRank/">Try the demo</a> · <a href="https://github.com/surya0901/SignalRank/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/surya0901/SignalRank">Code</a></p>
+<sub>The public demo runs ranking in the browser; the Python/database stack runs through Docker Compose.</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/rakeshcr92/terrazone">Terra-Zone AI</a></h3>
+<p><strong>Geospatial land-feasibility prototype · Team project</strong></p>
+<p>Contributed to a map-based application that combines parcel drawing, geospatial calculations, external data sources, and AI-generated feasibility summaries.</p>
+<p><code>React</code> <code>TypeScript</code> <code>MapLibre</code> <code>Supabase</code> <code>Gemini</code></p>
+<p><a href="https://devpost.com/software/terra-zone">HackPrinceton case study</a> · <a href="https://github.com/rakeshcr92/terrazone">Team repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/surya0901/surya-player">Surya Player</a></h3>
+<p><strong>Desktop audio application</strong></p>
+<p>A custom pixel-art music player with local audio playback, playlist integrations, OAuth PKCE, persistent themes, and Electron main/renderer communication.</p>
+<p><code>Electron</code> <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>OAuth</code></p>
+<p><a href="https://github.com/surya0901/surya-player">Code &amp; setup</a> · <a href="https://github.com/surya0901/surya-player/tree/main/src">Frontend &amp; integrations</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/surya0901/RaspberryPi-Photobooth">Raspberry Pi Photobooth</a></h3>
+<p><strong>Camera-to-print hardware system</strong></p>
+<p>A Raspberry Pi 5 photobooth connecting a touchscreen, camera, GPIO button, and thermal printer. Implements live preview, countdown, capture, and printing in one interaction flow.</p>
+<p><code>Python</code> <code>Raspberry Pi</code> <code>Picamera2</code> <code>GPIO</code></p>
+<p><a href="https://github.com/surya0901/RaspberryPi-Photobooth">Code &amp; setup</a> · <a href="https://github.com/surya0901/RaspberryPi-Photobooth/blob/main/hardware.md">Hardware notes</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/surya0901/ai-fall-detection">Fall Detection</a></h3>
+<p><strong>Computer-vision prototype · Team project</strong></p>
+<p>Contributed to a webcam monitoring prototype using MediaPipe pose landmarks, temporal movement rules, and a countdown before a Twilio voice alert. Rule-based detection with documented limitations.</p>
+<p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>Twilio</code></p>
+<p><a href="https://github.com/surya0901/ai-fall-detection">Code, team &amp; limitations</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/surya0901/ramayana-hanumans-leap">Ramayana: Hanuman's Leap</a></h3>
+<p><strong>Playable browser game</strong></p>
+<p>A TypeScript action-adventure game with scene transitions, collision detection, enemy waves, ability cooldowns, and persistent scores.</p>
+<p><code>TypeScript</code> <code>Phaser</code> <code>Vite</code> <code>Canvas</code></p>
+<p><a href="https://surya0901.github.io/ramayana-hanumans-leap/">Play the game</a> · <a href="https://github.com/surya0901/ramayana-hanumans-leap">Code</a></p>
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -123,68 +181,6 @@ usually where an ambitious idea needs both engineering depth and a practical pat
 <br><br>
 
 <img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` selected work
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/surya-player">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-surya-player-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-surya-player-light.svg">
-      <img src="assets/card-surya-player-dark.svg" width="420" alt="Surya Player">
-    </picture>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/RaspberryPi-Photobooth">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-RaspberryPi-Photobooth-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-RaspberryPi-Photobooth-light.svg">
-      <img src="assets/card-RaspberryPi-Photobooth-dark.svg" width="420" alt="Raspberry Pi Photobooth">
-    </picture>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/ai-fall-detection">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-fall-detection-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-fall-detection-light.svg">
-      <img src="assets/card-ai-fall-detection-dark.svg" width="420" alt="AI Fall Detection">
-    </picture>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/StudentPerformancePredictor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-StudentPerformancePredictor-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-StudentPerformancePredictor-light.svg">
-      <img src="assets/card-StudentPerformancePredictor-dark.svg" width="420" alt="Student Performance Predictor">
-    </picture>
-  </a>
-</td>
-</tr>
-</table>
-
-<sub>
-
-| project | live | stack |
-|---|---|---|
-| **[Terra-Zone AI](https://devpost.com/software/terra-zone)** | [Devpost](https://devpost.com/software/terra-zone) | `React` `TypeScript` `Supabase` `Gemini` |
-| **[Surya Player](https://github.com/surya0901/surya-player)** | [GitHub](https://github.com/surya0901/surya-player) | `Electron` `React` `JavaScript` `OAuth` |
-| **[Raspberry Pi Photobooth](https://github.com/surya0901/RaspberryPi-Photobooth)** | [Portfolio](https://suryagopinath.com/#hardware) | `Python` `Raspberry Pi` `Picamera2` `GPIO` |
-| **[Developer Portfolio](https://suryagopinath.com)** | [suryagopinath.com](https://suryagopinath.com) | `Web` `Interactive Design` `Project Logs` |
-
-</sub>
 
 </div>
 
