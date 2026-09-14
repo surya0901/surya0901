@@ -44,68 +44,7 @@ usually where an ambitious idea needs both engineering depth and a practical pat
 
 <br>
 
-<div align="center">
 
-## `~/` selected work
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/SignalRank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-SignalRank-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-SignalRank-light.svg">
-      <img src="assets/card-SignalRank-dark.svg" width="420" alt="SignalRank">
-    </picture>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/surya-player">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-surya-player-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-surya-player-light.svg">
-      <img src="assets/card-surya-player-dark.svg" width="420" alt="surya-player">
-    </picture>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/RaspberryPi-Photobooth">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-RaspberryPi-Photobooth-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-RaspberryPi-Photobooth-light.svg">
-      <img src="assets/card-RaspberryPi-Photobooth-dark.svg" width="420" alt="RaspberryPi-Photobooth">
-    </picture>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/surya0901/ai-fall-detection">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-fall-detection-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-fall-detection-light.svg">
-      <img src="assets/card-ai-fall-detection-dark.svg" width="420" alt="ai-fall-detection">
-    </picture>
-  </a>
-</td>
-</tr>
-</table>
-
-<sub>
-
-| project | demo / code | stack |
-|---|---|---|
-| **[SignalRank](https://github.com/surya0901/SignalRank)** | [Live demo](https://surya0901.github.io/SignalRank/) | `React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` |
-| **[Surya Player](https://github.com/surya0901/surya-player)** | [Code & setup](https://github.com/surya0901/surya-player) | `Electron` `React` `JavaScript` `OAuth` |
-| **[Raspberry Pi Photobooth](https://github.com/surya0901/RaspberryPi-Photobooth)** | [Hardware & setup](https://github.com/surya0901/RaspberryPi-Photobooth) | `Python` `Raspberry Pi` `Picamera2` `GPIO` |
-| **[Fall Detection](https://github.com/surya0901/ai-fall-detection)** | [Team project](https://github.com/surya0901/ai-fall-detection) | `Python` `OpenCV` `MediaPipe` `Twilio` |
-| **[Hanuman's Leap](https://github.com/surya0901/ramayana-hanumans-leap)** | [Play demo](https://surya0901.github.io/ramayana-hanumans-leap/) | `TypeScript` `Phaser` `Vite` |
-
-</sub>
-
-</div>
-
----
 
 <div align="center">
 
@@ -187,6 +126,69 @@ usually where an ambitious idea needs both engineering depth and a practical pat
 <br><br>
 
 <img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/surya0901/SignalRank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-SignalRank-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-SignalRank-light.svg">
+      <img src="assets/card-SignalRank-dark.svg" width="420" alt="SignalRank">
+    </picture>
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/surya0901/surya-player">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-surya-player-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-surya-player-light.svg">
+      <img src="assets/card-surya-player-dark.svg" width="420" alt="surya-player">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/surya0901/RaspberryPi-Photobooth">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-RaspberryPi-Photobooth-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-RaspberryPi-Photobooth-light.svg">
+      <img src="assets/card-RaspberryPi-Photobooth-dark.svg" width="420" alt="RaspberryPi-Photobooth">
+    </picture>
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/surya0901/ai-fall-detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-fall-detection-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-fall-detection-light.svg">
+      <img src="assets/card-ai-fall-detection-dark.svg" width="420" alt="ai-fall-detection">
+    </picture>
+  </a>
+</td>
+</tr>
+</table>
+
+<sub>
+
+| project | demo / code | stack |
+|---|---|---|
+| **[SignalRank](https://github.com/surya0901/SignalRank)** | [Live demo](https://surya0901.github.io/SignalRank/) | `React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` |
+| **[Surya Player](https://github.com/surya0901/surya-player)** | [Code & setup](https://github.com/surya0901/surya-player) | `Electron` `React` `JavaScript` `OAuth` |
+| **[Raspberry Pi Photobooth](https://github.com/surya0901/RaspberryPi-Photobooth)** | [Hardware & setup](https://github.com/surya0901/RaspberryPi-Photobooth) | `Python` `Raspberry Pi` `Picamera2` `GPIO` |
+| **[Fall Detection](https://github.com/surya0901/ai-fall-detection)** | [Team project](https://github.com/surya0901/ai-fall-detection) | `Python` `OpenCV` `MediaPipe` `Twilio` |
+| **[Hanuman's Leap](https://github.com/surya0901/ramayana-hanumans-leap)** | [Play demo](https://surya0901.github.io/ramayana-hanumans-leap/) | `TypeScript` `Phaser` `Vite` |
+
+</sub>
 
 </div>
 
