@@ -35,6 +35,8 @@ $ cat about.txt
 Hi, I'm **Surya Gopinath**. I build things across software, cloud, AI, and hardware,
 usually where an ambitious idea needs both engineering depth and a practical path into the real world.
 
+- Backend Developer at **Hack4Impact** — September 2026–present
+- Previously, Software Engineer Intern at **Universal Selfcare** — May–July 2026
 - M.S. Computer Engineering student at **Rutgers University**
 - Winner at **HackPrinceton Spring 2026**
 - Recent work: **[SignalRank](https://surya0901.github.io/SignalRank/)**, **[Surya Player](https://github.com/surya0901/surya-player)**, and Raspberry Pi hardware projects
