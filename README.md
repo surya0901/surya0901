@@ -35,7 +35,6 @@ $ cat about.txt
 Hi, I'm **Surya Gopinath**. I build things across software, cloud, AI, and hardware,
 usually where an ambitious idea needs both engineering depth and a practical path into the real world.
 
-- Co-Founder & Software Engineer at **GeoZane**
 - M.S. Computer Engineering student at **Rutgers University**
 - Winner at **HackPrinceton Spring 2026**
 - Recent work: **[SignalRank](https://surya0901.github.io/SignalRank/)**, **[Surya Player](https://github.com/surya0901/surya-player)**, and Raspberry Pi hardware projects
