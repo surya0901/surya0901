@@ -35,9 +35,9 @@ $ cat about.txt
 Hi, I'm **Surya Gopinath**. I build things across software, cloud, AI, and hardware,
 usually where an ambitious idea needs both engineering depth and a practical path into the real world.
 
-- Co-Founder & Software Engineer at **GeoZane**, building AI-powered land-feasibility tools
+- Co-Founder & Software Engineer at **GeoZane**
 - M.S. Computer Engineering student at **Rutgers University**
-- Winner at **[HackPrinceton Spring 2026](https://devpost.com/software/terra-zone)** with Terra-Zone AI
+- Winner at **HackPrinceton Spring 2026**
 - Recent work: **[SignalRank](https://surya0901.github.io/SignalRank/)**, **[Surya Player](https://github.com/surya0901/surya-player)**, and Raspberry Pi hardware projects
 - Fun fact: **I started in biomedical engineering and now build technology across disciplines.**
 
@@ -49,7 +49,7 @@ A selection of web, desktop, machine-learning, and hardware projects. Open the d
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <h3><a href="https://github.com/surya0901/SignalRank">SignalRank</a></h3>
 <p><strong>Personalized movie discovery</strong></p>
 <p>Explainable recommendations from MovieLens ratings using item similarity and genre preferences. Includes a FastAPI/PostgreSQL application, Docker setup, tests, and a reproducible offline evaluation.</p>
@@ -57,13 +57,7 @@ A selection of web, desktop, machine-learning, and hardware projects. Open the d
 <p><a href="https://surya0901.github.io/SignalRank/">Try the demo</a> · <a href="https://github.com/surya0901/SignalRank/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/surya0901/SignalRank">Code</a></p>
 <sub>The public demo runs ranking in the browser; the Python/database stack runs through Docker Compose.</sub>
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/rakeshcr92/terrazone">Terra-Zone AI</a></h3>
-<p><strong>Geospatial land-feasibility prototype · Team project</strong></p>
-<p>Contributed to a map-based application that combines parcel drawing, geospatial calculations, external data sources, and AI-generated feasibility summaries.</p>
-<p><code>React</code> <code>TypeScript</code> <code>MapLibre</code> <code>Supabase</code> <code>Gemini</code></p>
-<p><a href="https://devpost.com/software/terra-zone">HackPrinceton case study</a> · <a href="https://github.com/rakeshcr92/terrazone">Team repository</a></p>
-</td>
+
 </tr>
 <tr>
 <td width="50%" valign="top">
