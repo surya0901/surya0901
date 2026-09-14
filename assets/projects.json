@@ -2,20 +2,20 @@
   "_comment": "Featured repositories used to generate live project cards.",
   "projects": [
     {
+      "repo": "SignalRank",
+      "description": "Personalized movie recommendations with explainable ranking, a live demo, and a tested FastAPI/PostgreSQL application."
+    },
+    {
       "repo": "surya-player",
-      "description": "A pixel-art desktop music player built with Electron, React, Spotify, local playback, animated vinyl UI, and custom themes."
+      "description": "A pixel-art desktop music player with Electron, React, local audio playback, playlist integrations, and custom themes."
     },
     {
       "repo": "RaspberryPi-Photobooth",
-      "description": "A Raspberry Pi 5 photo booth with a touchscreen interface, Picamera2 capture, GPIO controls, and instant thermal printing."
+      "description": "A Raspberry Pi 5 photobooth with touchscreen preview, camera capture, GPIO controls, and thermal printing."
     },
     {
       "repo": "ai-fall-detection",
-      "description": "An AI-assisted fall-detection project exploring computer vision for practical safety and healthcare applications."
-    },
-    {
-      "repo": "StudentPerformancePredictor",
-      "description": "A machine-learning pipeline that predicts student outcomes using logistic regression and decision-tree models."
+      "description": "A team-built computer-vision prototype using pose tracking, movement rules, and Twilio alerts to detect possible falls."
     }
   ]
 }
