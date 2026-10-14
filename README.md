@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=surya0901&style=flat&color=39d353&label=profile+views&v=2" alt="profile views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=surya0901.surya0901&left_color=%23555&right_color=%2339d353" alt="profile views">
 
 </div>
 
