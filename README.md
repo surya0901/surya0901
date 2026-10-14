@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=surya0901.surya0901&left_color=%23555&right_color=%2339d353" alt="profile views">
+<img src="https://img.shields.io/badge/historical_views-140%2B-39d353?style=flat" alt="140+ historical profile views">
 
 </div>
 
