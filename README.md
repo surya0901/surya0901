@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="assets/views-flap.svg" width="310" alt="Animated views counter showing 140">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=surya0901.surya0901&left_text=views&left_color=%23555&right_color=%2339d353" alt="live profile views">
 
 </div>
 
