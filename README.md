@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/views-140-39d353?style=flat" alt="views 140">
+<img src="assets/views-flap.svg" width="310" alt="Animated views counter showing 140">
 
 </div>
 
