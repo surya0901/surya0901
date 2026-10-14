@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/historical_views-140%2B-39d353?style=flat" alt="140+ historical profile views">
+<img src="https://img.shields.io/badge/views-140-39d353?style=flat" alt="views 140">
 
 </div>
 
