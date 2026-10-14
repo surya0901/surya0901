@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="78" viewBox="0 0 310 78" role="img" aria-labelledby="title desc">
+  <title id="title">Views 140</title>
+  <desc id="desc">Animated split-flap display that rolls quickly and stops at 140.</desc>
+  <defs>
+    <linearGradient id="case" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#25292e"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="flap" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#25292e"/>
+      <stop offset=".49" stop-color="#1b1f24"/>
+      <stop offset=".5" stop-color="#111418"/>
+      <stop offset="1" stop-color="#1b1f24"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity=".65"/>
+    </filter>
+    <clipPath id="d1"><rect x="168" y="12" width="38" height="54" rx="5"/></clipPath>
+    <clipPath id="d2"><rect x="212" y="12" width="38" height="54" rx="5"/></clipPath>
+    <clipPath id="d3"><rect x="256" y="12" width="38" height="54" rx="5"/></clipPath>
+    <style>
+      .digit { fill:#f0f3f6; font:700 34px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; text-anchor:middle; }
+      .roll1 { transform:translateY(-440px); animation:roll1 .68s cubic-bezier(.15,.8,.25,1) both; }
+      .roll2 { transform:translateY(-440px); animation:roll2 .78s cubic-bezier(.15,.8,.25,1) .06s both; }
+      .roll3 { transform:translateY(-440px); animation:roll3 .88s cubic-bezier(.15,.8,.25,1) .12s both; }
+      @keyframes roll1 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
+      @keyframes roll2 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
+      @keyframes roll3 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
+      @media (prefers-reduced-motion:reduce) { .roll1,.roll2,.roll3 { animation:none } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="308" height="76" rx="12" fill="url(#case)" stroke="#30363d"/>
+  <g filter="url(#shadow)">
+    <rect x="16" y="12" width="136" height="54" rx="7" fill="url(#flap)" stroke="#343a40"/>
+    <text x="84" y="47" fill="#b7f7c5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="3">VIEWS</text>
+    <g fill="url(#flap)" stroke="#343a40">
+      <rect x="168" y="12" width="38" height="54" rx="5"/>
+      <rect x="212" y="12" width="38" height="54" rx="5"/>
+      <rect x="256" y="12" width="38" height="54" rx="5"/>
+    </g>
+  </g>
+  <g clip-path="url(#d1)"><g class="digit roll1">
+    <text x="187" y="49">7</text><text x="187" y="89">2</text><text x="187" y="129">9</text><text x="187" y="169">0</text>
+    <text x="187" y="209">6</text><text x="187" y="249">3</text><text x="187" y="289">8</text><text x="187" y="329">5</text>
+    <text x="187" y="369">4</text><text x="187" y="409">2</text><text x="187" y="449">7</text><text x="187" y="489">1</text>
+  </g></g>
+  <g clip-path="url(#d2)"><g class="digit roll2">
+    <text x="231" y="49">1</text><text x="231" y="89">8</text><text x="231" y="129">3</text><text x="231" y="169">7</text>
+    <text x="231" y="209">0</text><text x="231" y="249">9</text><text x="231" y="289">2</text><text x="231" y="329">6</text>
+    <text x="231" y="369">5</text><text x="231" y="409">8</text><text x="231" y="449">0</text><text x="231" y="489">4</text>
+  </g></g>
+  <g clip-path="url(#d3)"><g class="digit roll3">
+    <text x="275" y="49">6</text><text x="275" y="89">1</text><text x="275" y="129">8</text><text x="275" y="169">4</text>
+    <text x="275" y="209">2</text><text x="275" y="249">9</text><text x="275" y="289">5</text><text x="275" y="329">3</text>
+    <text x="275" y="369">7</text><text x="275" y="409">1</text><text x="275" y="449">6</text><text x="275" y="489">0</text>
+  </g></g>
+  <g stroke="#07090c" stroke-width="2" opacity=".9">
+    <line x1="16" y1="39" x2="152" y2="39"/>
+    <line x1="168" y1="39" x2="206" y2="39"/>
+    <line x1="212" y1="39" x2="250" y2="39"/>
+    <line x1="256" y1="39" x2="294" y2="39"/>
+  </g>
+  <g fill="#59636e">
+    <circle cx="173" cy="39" r="1.4"/><circle cx="201" cy="39" r="1.4"/>
+    <circle cx="217" cy="39" r="1.4"/><circle cx="245" cy="39" r="1.4"/>
+    <circle cx="261" cy="39" r="1.4"/><circle cx="289" cy="39" r="1.4"/>
+  </g>
+</svg>
