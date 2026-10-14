@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=surya0901&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=surya0901&style=flat&color=39d353&label=profile+views&v=2" alt="profile views">
 
 </div>
 
