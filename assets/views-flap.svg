@@ -20,9 +20,9 @@
     <clipPath id="d3"><rect x="256" y="12" width="38" height="54" rx="5"/></clipPath>
     <style>
       .digit { fill:#f0f3f6; font:700 34px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; text-anchor:middle; }
-      .roll1 { transform:translateY(-440px); animation:roll1 .68s cubic-bezier(.15,.8,.25,1) both; }
-      .roll2 { transform:translateY(-440px); animation:roll2 .78s cubic-bezier(.15,.8,.25,1) .06s both; }
-      .roll3 { transform:translateY(-440px); animation:roll3 .88s cubic-bezier(.15,.8,.25,1) .12s both; }
+      .roll1 { transform:translateY(-440px); animation:roll1 4.6s steps(11,end) .4s both; }
+      .roll2 { transform:translateY(-440px); animation:roll2 4.7s steps(11,end) .3s both; }
+      .roll3 { transform:translateY(-440px); animation:roll3 4.8s steps(11,end) .2s both; }
       @keyframes roll1 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
       @keyframes roll2 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
       @keyframes roll3 { from { transform:translateY(0) } to { transform:translateY(-440px) } }
